@@ -21,5 +21,7 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+https://drive.google.com/file/d/1ykN4zUMfe8ChJsNnW8D1X8AZZElSBQ2u/view?usp=drivesdk 
 
 RESULT:
+Thus, the summarized Result section based on the experiment using the Four prompt types (zero-shot, few-shot, chain-of-thought, role-based) and three AI platforms (ChatGPT,Gemini and Claude).
